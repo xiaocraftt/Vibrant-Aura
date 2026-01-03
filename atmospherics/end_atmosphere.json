@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:atmosphere_settings": {
+    "description": {
+      "identifier": "va:end_atmosphere"
+    },
+
+    "sky_zenith_color": {
+      "0.0": [135, 80, 210]
+    },
+
+    "sky_horizon_color": {
+      "0.0": [190, 120, 235]
+    },
+
+    "rayleigh_strength": {
+      "0.0": 14.0
+    },
+
+    "sun_mie_strength": {
+      "0.0": 6.8
+    },
+
+    "moon_mie_strength": {
+      "0.0": 0.0
+    },
+
+    "sun_glare_shape": {
+      "0.0": 0.08
+    },
+
+    "horizon_blend_stops": {
+      "min": 0.22,
+      "start": 0.58,
+      "mie_start": 0.92,
+      "max": 0.88
+    }
+  }
+}
