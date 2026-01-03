@@ -1,0 +1,56 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "va:pale_garden_lighting"
+    },
+
+    "directional_lights": {
+      "sun": {
+        "illuminance": {
+          "0.00": 38,
+          "0.25": 34,
+          "0.50": 32,
+          "0.75": 36,
+          "1.00": 38
+        },
+        "color": {
+          "0.00": [215, 220, 218],
+          "0.50": [210, 215, 213],
+          "1.00": [205, 210, 208]
+        }
+      },
+
+      "moon": {
+        "illuminance": {
+          "0.00": 0.22,
+          "1.00": 0.28
+        },
+        "color": {
+          "0.00": [165, 175, 185],
+          "1.00": [170, 180, 190]
+        }
+      }
+    },
+
+    "ambient": {
+      "illuminance": 0.055,
+      "color": [185, 190, 188]
+    },
+
+    "emissive": {
+      "desaturation": 0.25
+    },
+
+    "sky": {
+      "intensity": 0.22
+    },
+
+    "sun_rays": {
+      "enabled": true,
+      "color": [200, 205, 202],
+      "intensity": 0.45,
+      "scatter_strength": 0.30
+    }
+  }
+}

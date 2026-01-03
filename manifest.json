@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Vibrant Aura brings cinematic lighting, realistic fog, and rich color depth to Minecraft Bedrock.By XiaoCraft.",
+    "name": "Vibrant Aura",
+    "uuid": "552287ff-1980-4071-89b5-5fbb75be8168",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "Unbound Visuals Shader Module",
+      "type": "resources",
+      "uuid": "7699269d-6f54-41b0-836b-09a086162c25",
+      "version": [1, 0, 0]
+    }
+      ],
+      "capabilities" : ["pbr"]
+    }
