@@ -1,7 +1,7 @@
 {
   "format_version": "1.21.90",
   "minecraft:fog_settings": {
-    "description": { "identifier": "va:nether_soul_fog" },
+    "description": { "identifier": "va:soul_fog" },
 
     "distance": {
       "air": {

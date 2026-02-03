@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "va:soul_lighting"
+    },
+
+    "directional_lights": {
+      "sun": {
+        "illuminance": {
+          "0.0": 50
+        },
+        "color": [90, 150, 190]
+      },
+      "moon": {
+        "illuminance": {
+          "0.0": 30
+        },
+        "color": [160, 190, 210]
+      }
+    },
+
+    "ambient": {
+      "illuminance": 0.45,
+      "color": [60, 110, 140]
+    },
+
+    "sky": {
+      "intensity": 0.32
+    }
+  }
+}
